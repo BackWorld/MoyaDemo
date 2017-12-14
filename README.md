@@ -1,4 +1,4 @@
-![Demo效果](http://upload-images.jianshu.io/upload_images/1334681-ab5c6a7f830ccdf1.gif?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image](http://upload-images.jianshu.io/upload_images/1334681-ab5c6a7f830ccdf1.gif?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 # MoyaDemo
 A demo project for Moya third-part framework in Swift.
