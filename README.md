@@ -12,7 +12,7 @@ A demo project for Moya third-part framework in Swift.
 
 > carthage update --platform iOS
 
-如果没有安装carthage，参照：https://github.com/Carthage/Carthage
+如果没有安装Carthage，参照：https://github.com/Carthage/Carthage
 
 # 简书：
 > http://www.jianshu.com/p/e793a065db80
